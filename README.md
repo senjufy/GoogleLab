@@ -1,2 +1,2 @@
 # GoogleLab
-This repo is for google week -3 lab.
+This repo is for google week-3 lab.
